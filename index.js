@@ -23,11 +23,38 @@
 
 // let high_scores = [2112, 1024, 9000, 9001, 7200, 2600, 10000]
 
-
-// for(let high_scores = 0; high_scores <= 10000; high_scores++)
+// for(i = 0; i <= high_scores.length; i++ ) 
 // {
-//     console.log(score[high_scores]);    
-// }
+//     console.log(high_scores[i])
+// } 
+// if (i = [2])
+// {
+//     console.log('OVER 9000')
+
+// } 
+
+
+
+
+
+// Exercise 5
+
+// number =prompt("Enter a number");
+// number2 = prompt("Enter another number");
+
+// for(i=0; i <= number && number2; i++)
+
+// console.log(i)
+
+
+
+
+
+
+
+
+
+
 
 
 
